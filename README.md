@@ -16,7 +16,7 @@
             <p>
                 This repository contains all my practice work for the Object Oriented Programming (OOP) course, implemented in Java. The exercises cover both basic
               programming concepts of programming fundamental and advanced OOP principles. The practice work is divided into two folders based on the Integrated Development Environment (IDE) 
-              used: IntelliJ IDEA(java_practise_cde) and NetBeans(neatbean_practise_code). Additionally, the repository includes all my course notes in PDF format.
+              used: IntelliJ Practise and NetBeans Practise. Additionally, the repository includes all my course notes in PDF format.
             </p>
             <h2>Project Components</h2>
             <ul>
